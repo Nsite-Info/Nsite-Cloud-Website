@@ -1,4 +1,3 @@
-# NSite Info Website
+# NSite Cloud Website
 
-This is the repo for https://nsite.info
-
+This is the repo for https://nsite.cloud
