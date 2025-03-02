@@ -1,0 +1,22 @@
+{
+    "Headernavigation":{
+        "basicmenu":[
+         {
+            "name":"Home",
+            "href":"/"
+         },
+           {
+              "name":"Editor",
+              "href":"/editor"
+           },
+           {
+            "name":"Templates",
+            "href":"/templates"
+         },
+           {
+            "name":"Roadmap",
+            "href":"/roadmap"
+         }
+        ]
+     }
+}

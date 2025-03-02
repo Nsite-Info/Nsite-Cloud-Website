@@ -1,0 +1,13 @@
+{
+   "name": "NSITE ☁",
+   "tagline": "Let them eat static 📺 ",
+   "hidemenu": false,
+   "blossomservers": [
+      "https://cdn.satellite.earth/",
+      "https://blossom.nostr.hu/"
+      
+   ],
+   "relays": [
+      "wss://relay.damus.io"
+   ]
+  }

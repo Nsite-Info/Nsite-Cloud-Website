@@ -1,0 +1,32 @@
+{
+  "name": "SovBiz",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@nuxt/devtools": "^1.0.2",
+    "@types/node": "^18",
+    "nuxt": "^3.6.0"
+  },
+  "dependencies": {
+    "@bitcoin-design/bitcoin-icons-vue": "^0.1.10",
+    "@headlessui/vue": "^1.7.23",
+    "@heroicons/vue": "^2.2.0",
+    "@nostr-dev-kit/ndk": "^2.12.0",
+    "@nuxtjs/color-mode": "^3.5.2",
+    "@nuxtjs/i18n": "^9.2.1",
+    "@nuxtjs/tailwindcss": "^6.13.1",
+    "bech32": "^2.0.0",
+    "debounce": "^2.2.0",
+    "nuxt": "^3.15.4",
+    "qrcode": "^1.5.3",
+    "simple-code-editor": "^2.0.9",
+    "vue": "latest",
+    "vue-router": "latest"
+  }
+}

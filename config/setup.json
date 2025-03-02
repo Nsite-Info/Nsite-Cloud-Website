@@ -1,0 +1,43 @@
+{
+  "version": "1.0.1 Beta",
+  "initsetup": true,
+  "name": "NSITE ☁",
+  "tagline": "Setup a Bitcoin Only Business",
+  "textlogo": "NSITE ☁",
+  "logo": false,
+  "logoimage": "NG_Logo_CypherSpace.gif",
+  "logodark": false,
+  "logodarkimage": "NG_Logo_CypherSpace_Dark.gif",
+  "multilang": true,
+  "defaultlanguage": "en",
+  "blog": true,
+  "shop": true,
+  "contact": true,
+  "cart": "latest",
+  "basecurrency": "btc",
+  "fiat": {
+    "denomination": "EUR",
+    "symbol": "€"
+  },
+  "testnet": "false",
+  "btcadress": "",
+  "lnurl": "",
+  "orderwebhook": "https://discord.com/api/webhooks/1233156502043361451/MO8cg2GcvehH51uTxrCE9e0T3albAHeYqdHxTqrRRZk1CoJp9--mR8_IN3PBqp5_JfIr",
+  "nostr": true,
+  "nostradmin": "npub1nkmta4dmsa7pj25762qxa6yqxvrhzn7ug0gz5frp9g7p3jdscnhsu049fn",
+  "nostrrelay": "wss://relay.damus.io",
+  "footerlanguage": true,
+  "footersocials": true,
+  "footertheme": true,
+  "socialnavigation": {
+    "facebook": "",
+    "instagram": "",
+    "twitter": "",
+    "github": "https://github.com/nsite-info",
+    "discord": "",
+    "dribble": "",
+    "linkedin": "",
+    "telegram": "",
+    "nostr": "https://nostrcheck.me/u/npub1equrmqway3qxw3dkssymusxkwgwrqypfgeqx0lx9pgjam7gnj4ysaqhkj6"
+  }
+}
